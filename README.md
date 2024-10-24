@@ -36,7 +36,7 @@ https://github.com/raze10339/Employee_Tracker.git
 
 ## Demo
 
-For a complete demonstration of how the Vehicle Builder works, check out this [video walkthrough]
+For a complete demonstration of how the Employee_Tracker works, check out this [video walkthrough]https://drive.google.com/file/d/1lEhLrj5LX_uv9Ew5jxElcino1NbRaVwE/view?usp=sharing
 
 
 
